@@ -1,0 +1,9 @@
+{
+    "go.toolsEnvVars": {
+        "GOARCH": "amd64",
+        "GOOS": "windows",
+        "GOBIN": "${workspaceFolder}/bin",
+        "GOFLAGS": "-tags=pico,rp2040,rp,cortexm,baremetal,linux,arm,tinygo,gc.conservative,scheduler.tasks,serial.uart",
+        "GOROOT": "D:\\devs\\pcbangstudio\\user\\userprofile\\AppData\\Local\\tinygo\\goroot-go1.16.7-066ccefed4cc742e379df87889a0428691546d345407616e54947f2c5f1c9825-syscall"
+    },
+}
