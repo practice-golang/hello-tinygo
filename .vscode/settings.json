@@ -4,6 +4,6 @@
         "GOOS": "windows",
         "GOBIN": "${workspaceFolder}/bin",
         "GOFLAGS": "-tags=pico,rp2040,rp,cortexm,baremetal,linux,arm,tinygo,gc.conservative,scheduler.tasks,serial.uart",
-        "GOROOT": "D:\\devs\\pcbangstudio\\user\\userprofile\\AppData\\Local\\tinygo\\goroot-go1.16.7-066ccefed4cc742e379df87889a0428691546d345407616e54947f2c5f1c9825-syscall"
+        "GOROOT": "C:\\Users\\high\\Desktop\\pcbangstudio\\user\\userprofile\\AppData\\Local\\tinygo\\goroot-go1.16.7-864e4661fc76be55197234cd9bcfe7fe9962f0e8c5ad6e7f116d3d22770d078d-syscall"
     },
 }
