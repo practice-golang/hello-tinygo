@@ -6,8 +6,8 @@ import (
 )
 
 func main() {
-	// led := machine.LED
-	led := machine.GP18
+	// led := machine.LED // raspberry pi pico
+	led := machine.GP18 // pimoroni tiny2040
 	led.Configure(machine.PinConfig{Mode: machine.PinOutput})
 	for {
 		led.Low()
